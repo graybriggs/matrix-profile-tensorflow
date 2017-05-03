@@ -8,6 +8,7 @@ x = np.random.rand(10000)
 x = tf.constant(x, name='x')
 y = tf.Variable(5 * x * x - 3 * x + 15, name='y')
 
+testtesttest = "testtestteset"
 
 def findNN(x, y)
 
